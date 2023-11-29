@@ -1,7 +1,7 @@
 [
     {
 	"name": "ПУМБ",
-	"price_info": "От 3% До 100 000 грн",
+	"price_info": "От 3% До 100 000 zlt",
     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/66c872f8dd5a0e3f8452296287637d6d573aa2f4/pumbbank.png",
     "sum": "500 - 100 000",
 	"term": "62 - 120",
@@ -11,7 +11,7 @@
   },
   {
 	"name": "O.Bank UA",
-	"price_info": "От 3% До 50 000 грн",
+	"price_info": "От 3% До 50 000 zlt",
     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/66c872f8dd5a0e3f8452296287637d6d573aa2f4/obank.png",
     "sum": "1000 - 200 000",
 	"term": "62 - 120",
@@ -22,7 +22,7 @@
   
   {
 	"name": "Sportbank (debit card)",
-	"price_info": "От 5% До 200 000 руб",
+	"price_info": "От 5% До 200 000 zlt",
     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/66c872f8dd5a0e3f8452296287637d6d573aa2f4/sportbank.png",
     "sum": "500 - 100 000",
 	"term": "1 - 55",
