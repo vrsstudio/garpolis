@@ -20,7 +20,7 @@
   {
     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/finolomx.png",
     "name": "Aprobación inmediata en minutos",
-    "rating": 5,
+    "rating": 4.8,
     "age": "desde 18 años",
     "odobrenie": "Baja",
     "sum_one": "de 2 000 a 100 000 mxn",
@@ -56,7 +56,7 @@
 {
     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/solcreditmx.png",
     "name": "Sin comprobante de ingresos",
-    "rating": 5,
+    "rating": 4.7,
     "age": "desde 18 años",
     "odobrenie": "Baja",
     "sum_one": "de 1 000 a 12 000 $",
@@ -65,7 +65,7 @@
 {
     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/loaneymx.png",
     "name": "Crédito flexible, fácil y confiable",
-    "rating": 4,
+    "rating": 4.5,
     "age": "desde 18 años",
     "odobrenie": "Baja",
     "sum_one": "de 1 000 a 8 000 $",
