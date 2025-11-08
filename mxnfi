@@ -38,7 +38,7 @@
  {
     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/finpugmx.png",
     "name": "Dinero para cualquier propósito",
-    "rating": 4,9
+    "rating": 5,
     "age": "desde 18 años",
     "odobrenie": "Baja",
     "sum_one": "de 1 000 a 30 000 mxn",
@@ -47,7 +47,7 @@
 {
     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/turbopesso.png",
     "name": "Proceso seguro y sin comisiones ocultas",
-    "rating": 4,7
+    "rating": 5,
     "age": "desde 18 años",
     "odobrenie": "Baja",
     "sum_one": "de 1 000 a 50 000 mxn",
@@ -56,7 +56,7 @@
 {
     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/solcreditmx.png",
     "name": "Sin comprobante de ingresos",
-    "rating": 4,5
+    "rating": 5,
     "age": "desde 18 años",
     "odobrenie": "Baja",
     "sum_one": "de 1 000 a 12 000 $",
