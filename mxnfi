@@ -20,7 +20,7 @@
   {
     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/finolomx.png",
     "name": "Aprobación inmediata en minutos",
-    "rating": 4.8,
+    "rating": 5,
     "age": "desde 18 años",
     "odobrenie": "Baja",
     "sum_one": "de 2 000 a 100 000 mxn",
@@ -35,43 +35,43 @@
     "sum_one": "de 1 000 a 12 000 $",
     "url": "https://tds.pdl-profit.com/h/1qoj6891ae7cf0f71"
   },
- {
+  {
     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/finpugmx.png",
     "name": "Dinero para cualquier propósito",
-    "rating": 5,
+    "rating": 4.9,
     "age": "desde 18 años",
     "odobrenie": "Baja",
     "sum_one": "de 1 000 a 30 000 mxn",
     "url": "https://tds.pdl-profit.com/h/1r0a688d303ee60a9"
-  }, 
-{
+  },
+  {
     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/turbopesso.png",
     "name": "Proceso seguro y sin comisiones ocultas",
-    "rating": 5,
+    "rating": 4.7,
     "age": "desde 18 años",
     "odobrenie": "Baja",
     "sum_one": "de 1 000 a 50 000 mxn",
     "url": "https://tds.pdl-profit.com/h/1rcs6886099735b84"
-  }, 
-{
+  },
+  {
     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/solcreditmx.png",
     "name": "Sin comprobante de ingresos",
-    "rating": 4.7,
+    "rating": 4.5,
     "age": "desde 18 años",
     "odobrenie": "Baja",
     "sum_one": "de 1 000 a 12 000 $",
     "url": "https://tds.pdl-profit.com/h/1pde6891ae79729ad"
   },
-{
+  {
     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/loaneymx.png",
     "name": "Crédito flexible, fácil y confiable",
-    "rating": 4.5,
+    "rating": 4,
     "age": "desde 18 años",
     "odobrenie": "Baja",
     "sum_one": "de 1 000 a 8 000 $",
     "url": "https://tds.pdl-profit.com/h/1rek68860968c840c"
   },
-{
+  {
     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/lendinomx.png",
     "name": "Tu préstamo aprobado en minutos",
     "rating": 5,
