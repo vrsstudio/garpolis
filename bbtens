@@ -8,6 +8,15 @@
     "odobrenie": "Высокое",
     "url": "https://www.vtb.ru/personal/kredit/nalichnymi/"
   },
+{
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/main/logogenbank.png",
+    "name": "Можно тратить на любые цели",
+    "rating": 5,
+    "age": "от 18 лет",
+    "sum_one": "от 10 000 до 4 000 000 руб",
+    "odobrenie": "Высокое",
+    "url": "https://www.genbank.ru/chastnym-litsam/credit_for_clients/kredity-dlya-chastnykh-lits-/dostupnyy/#product-opening"
+  },
   {
     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/main/tbank.png",
     "name": "0% переплаты первый месяц",
