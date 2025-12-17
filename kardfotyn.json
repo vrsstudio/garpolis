@@ -2,7 +2,7 @@
 	{
 	"name": "Кредитная Карта - хочукуплю",
 	"price_info": "От 2% До 1 100 000 руб",
-    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/main/",
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/main/genbankruu.png",
     "sum": "400 - 15 000",
 	"term": "2 года",
 	"percent": "1,50% - 1,85%",
@@ -12,7 +12,7 @@
   {
 	"name": "Альфа банк",
 	"price_info": "От 3% До 950 000 руб",
-    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/main/tbank.png",
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/main/AlfBank.png",
     "sum": "400 - 15 000",
 	"term": "3 года",
 	"percent": "1,50% - 1,85%",
@@ -22,7 +22,7 @@
     {
 	"name": "Кредитная карта - Платинум",
 	"price_info": "От 2% До 1 150 000 руб",
-    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/main/",
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/main/tbank.png",
     "sum": "400 - 15 000",
 	"term": "2 года",
 	"percent": "1,50% - 1,85%",
