@@ -18,13 +18,13 @@
  "url": "https://www.bpi.com.ph/personal/loans/personal-loan"
 },
  {
-"image_url": "https://raw.githubusercontent.com/vrsstudio/img/main/finpugmx.png",
+"image_url": "https://raw.githubusercontent.com/vrsstudio/img/main/Unionbank.png",
       "name": "МКК «Умные наличные» — Займы на карту за 15 минут",
      "rating": 4,
  "age":"от 18 лет",
 	"odobrenie": "Низкое",
     	"sum_one": "от 6 000 до 15 000 руб",
- "url": "https://sovcombank.ru/apply/credit/houm-kredit-nalichnymi/"
+ "url": "https://www.unionbankph.com/msme/dealers-financing-line"
 },
 {
 "image_url": "https://raw.githubusercontent.com/vrsstudio/img/main/finpugmx.png",
@@ -33,7 +33,7 @@
  "age":"от 18 лет",
 	"odobrenie": "Низкое",
     	"sum_one": "от 6 000 до 15 000 руб",
- "url": "https://sovcombank.ru/apply/credit/houm-kredit-nalichnymi/"
+ "url": "https://www.rcbc.com/personal-loans"
 }
     
 ]
