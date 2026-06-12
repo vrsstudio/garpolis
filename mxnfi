@@ -9,58 +9,12 @@
     "url": "https://tds.pdl-profit.com/h/1rs969ce74dd08938"
   },
 {
-    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/creditioes.png",
-    "name": "Dinero al instante en tu tarjeta",
-    "rating": 5,
-    "age": "desde 18 años",
-    "sum_one": "de 1 500 a 30 000 $",
-    "odobrenie": "Alta",
-    "url": "https://tds.pdl-profit.com/h/1rf26a0f0233ad855"
-  },
-{
-    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/zaimoomx.png",
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/optocreditomx.png",
     "name": "Sin revisión en buró de crédito",
     "rating": 5,
     "age": "desde 18 años",
     "odobrenie": "Baja",
-    "sum_one": "de 1 000 a 150 000 $",
-    "url": "https://tds.pdl-profit.com/h/1qqb68860a98229aa"
-  },
-{
-    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/lemonzamx.png",
-    "name": "Tu préstamo aprobado en minutos",
-    "rating": 5,
-    "age": "desde 18 años",
-    "odobrenie": "Baja",
-    "sum_one": "de 1 000 a 10 000 $",
-    "url": "https://tds.pdl-profit.com/h/1ro96958e436cbd54"
-  },
-{
-    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/binixmx.png",
-    "name": "Solicita sin salir de casa",
-    "rating": 5,
-    "age": "desde 18 años",
-    "odobrenie": "Baja",
-    "sum_one": "de 1 000 a 100 000 $",
-    "url": "https://tds.pdl-profit.com/h/1qd668860ad3170b1"
-  },
-
-{
-    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/creditnacepl.png",
-    "name": "Proceso seguro y sin comisiones ocultas",
-    "rating": 5,
-    "age": "desde 18 años",
-    "odobrenie": "Baja",
-    "sum_one": "de 1 000 a 50 000 $",
-    "url": "https://tds.pdl-profit.com/h/1qpt68860acb2cf74"
-  },
- {
-    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/optocreditomx.png",
-    "name": "Crédito rápido sin papeleo",
-    "rating": 4,
-    "age": "desde 18 años",
-    "odobrenie": "Baja",
-    "sum_one": "de 1 000 a 12 000 $",
+    "sum_one": "de 1 000 a 150 000 mxn",
     "url": "https://tds.pdl-profit.com/h/1rqv6a2923757b218"
   },
 {
@@ -73,6 +27,42 @@
     "url": "https://tds.pdl-profit.com/h/1r0a688d303ee60a9"
   },
 {
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/creditioes.png",
+    "name": "Dinero al instante en tu tarjeta",
+    "rating": 5,
+    "age": "desde 18 años",
+    "sum_one": "de 1 500 a 30 000 $",
+    "odobrenie": "Alta",
+    "url": "https://tds.pdl-profit.com/h/1rf26a0f0233ad855"
+  },
+{
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/lemonzamx.png",
+    "name": "Tu préstamo aprobado en minutos",
+    "rating": 5,
+    "age": "desde 18 años",
+    "odobrenie": "Baja",
+    "sum_one": "de 1 000 a 10 000 $",
+    "url": "https://tds.pdl-profit.com/h/1ro96958e436cbd54"
+  },
+{
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/fiestamx.png",
+    "name": "Sin revisión en buró de crédito",
+    "rating": 5,
+    "age": "desde 18 años",
+    "odobrenie": "Baja",
+    "sum_one": "de 1 000 a 150 000 $",
+    "url": "https://tds.pdl-profit.com/h/1rim690bd23d7d845"
+  },
+ {
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/lendinomx.png",
+    "name": "Crédito rápido sin papeleo",
+    "rating": 4,
+    "age": "desde 18 años",
+    "odobrenie": "Baja",
+    "sum_one": "de 1 000 a 12 000 $",
+    "url": "https://tds.pdl-profit.com/h/1rae6909ca7843b61"
+  },
+{
     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/amigoslonmxn.png",
     "name": "Dinero al instante en tu tarjeta",
     "rating": 5,
@@ -80,7 +70,35 @@
     "sum_one": "de 1 500 a 30 000 $",
     "odobrenie": "Alta",
     "url": "https://tds.pdl-profit.com/h/1qne6891ae7ca7b77"
+  },
+{
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/alvos.png",
+    "name": "Solicita sin salir de casa",
+    "rating": 5,
+    "age": "desde 18 años",
+    "odobrenie": "Baja",
+    "sum_one": "de 1 000 a 100 000 mxn",
+    "url": "https://tds.pdl-profit.com/h/1rs16a2c40c0b422e"
+  },
+{
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/turbopesso.png",
+    "name": "Proceso seguro y sin comisiones ocultas",
+    "rating": 5,
+    "age": "desde 18 años",
+    "odobrenie": "Baja",
+    "sum_one": "de 1 000 a 50 000 $",
+    "url": "https://tds.pdl-profit.com/h/1rcs6886099735b84"
+  },
+ {
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/dineromonmx.png",
+    "name": "Crédito rápido sin papeleo",
+    "rating": 4,
+    "age": "desde 18 años",
+    "odobrenie": "Baja",
+    "sum_one": "de 1 000 a 56 000 mxn",
+    "url": "https://tds.pdl-profit.com/h/1qhv6891ae7c1ba4c"
   }
+
 
   
   
