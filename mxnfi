@@ -19,7 +19,7 @@
   },
 {
     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/finpugmx.png",
-    "name": "Dinero para cualquier propósito",
+    "name": "Necesitas dinero? Haz clic ahora",
     "rating": 5,
     "age": "desde 18 años",
     "odobrenie": "Baja",
@@ -54,6 +54,15 @@
     "sum_one": "de 1 000 a 45 000 mxn",
     "odobrenie": "Alta",
     "url": "https://tds.pdl-profit.com/h/1s216a43c329f3efa"
+  },
+{
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/amigoslonmxn.png",
+    "name": "Tu préstamo está a unos clics",
+    "rating": 5,
+    "age": "desde 18 años",
+    "odobrenie": "Baja",
+    "sum_one": "de 1 000 a 90 000 mxn",
+    "url": "https://tds.pdl-profit.com/h/1r0a688d303ee60a9"
   },
 
 {
