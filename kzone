@@ -1,0 +1,65 @@
+[
+
+
+ {
+    "name": "Хорошие условия",
+"rating": 5,
+ "odobrenie": "Высокое",
+ "age": "от 18 лет",
+             "image_url": "https://raw.githubusercontent.com/vrsstudio/img/main/altyynbankz.png",
+           "sum_one": "от 150 000 до 8 000 000 тг",
+         "url": "https://altynbank.kz/ru/personal/consumer-credit"
+    },
+{
+    
+    "name": "Деньги без процентов",
+"rating": 5,
+ "odobrenie": "Высокое",
+ "age": "от 18 лет",
+"image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/eurokzbank.png",   
+
+"sum_one": "от 100 000 до 7 000 000 тг",
+
+ "url": "https://eubank.kz/kk/loan-for-loyal-customers"
+},
+{
+
+    "name": "Без залога и документов",
+"rating": 5,
+ "odobrenie": "Высокое",
+ "age": "от 18 лет",
+"image_url": "https://raw.githubusercontent.com/vrsstudio/img/main/kaspikz.png",   
+
+"sum_one": "от 100 000 до 7 000 000 тг",
+
+ "url": "https://kaspi.kz/kz/cashkreditbiz"
+},
+{
+"name": "Просто и понятно",
+"rating": 5,
+ "odobrenie": "Высокое",
+ "age": "от 18 лет",
+"image_url": "https://raw.githubusercontent.com/vrsstudio/img/main/Freedokz.png",   
+
+"sum_one": "от 150 000 до 9 500 000 тг",
+
+ "url": "https://loan-cash.freedombank.kz/ru"
+},
+ {
+    "name": "Онлайн за 15 минут",
+"rating": 5,
+ "odobrenie": "Высокое",
+ "age": "от 18 лет",
+"image_url": "https://raw.githubusercontent.com/vrsstudio/img/main/fortebank_logo.png",   
+
+"sum_one": "от 200 000 до 9 500 000 тг",
+
+ "url": "https://bank.forte.kz/ru/express"
+}
+ 
+
+
+
+
+
+]
