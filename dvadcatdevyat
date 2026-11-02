@@ -4,120 +4,95 @@
 "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/moneymmm.png",
 "name": "Ноль процентов.",
 "rating": 5,
+ "percent": "0%",
 "age": "от 18 лет",
 "sum_one": "от 1 000 до 85 000 руб",
 
 "url": "https://trkleads.ru/click/41dcc41172273fd807876613096d8579?aff_sub1=samber"
 },
-
 {
 "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/zzazm.png",
 "name": "Деньги без процентов",
 "rating": 5,
+ "percent": "0%",
 "age": "от 18 лет",
 "sum_one": "от 1 000 до 30 000 руб",
 
 "url": "https://pxl.leads.su/click/e9fa0f069aa9d79c8b557a038d0a28e2?aff_sub1=samber&erid=2W5zFGRgkqW"
 },
-
 {
 "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/bb.png",
 "name": "Первый месяц без процентов",
 "rating": 5,
+ "percent": "0%",
 "age": "от 18 лет",
 "sum_one": "от 1 000 до 30 000 руб",
 
 "url": "https://pxl.leads.su/click/f776afdb73a56fcc453938708a0c0f11?aff_sub1=samber"
 },
-
 {
 "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/zpp.png",
 "name": "Мгновенный заём без процентов",
 "rating": 5,
+ "percent": "0%",
 "age": "от 18 лет",
 "sum_one": "от 1 000 до 100 000 руб",
 
 "url": "https://trkleads.ru/click/d2beed532f0210c4a2a434f721252d00?aff_sub1=samber"
 },
-
-
-
 {
 "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/f55.jpeg",
 "name": "Мгновенный заём без процентов",
 "rating": 5,
+ "percent": "0%",
 "age": "от 18 лет",
 "sum_one": "от 1 000 до 30 000 руб",
-
 "url": "https://pxl.leads.su/click/d51ddd0fe3c4cb23b1956e524382af43?aff_sub1=samber&erid=2W5zFHMCfMi"
 },
-
 {
 "image_url": "https://raw.githubusercontent.com/vipstatustoyou/images/refs/heads/main/ykky.png",
 "name": "Заём без процентов",
 "rating": 5,
+ "percent": "0%",
 "age": "от 18 лет",
 "sum_one": "от 1 000 до 30 000 руб",
-
 "url": "https://pxl.leads.su/click/54abdf09748532d49533bb376ac2dfb6?aff_sub1=samber&erid=2W5zFJ1PVgm"
 },
-
-
-
 {
 "image_url": "https://raw.githubusercontent.com/vipstatustoyou/images/main/neo.jpg",
 "name": "Мгновенный заём без процентов",
 "rating": 5,
+ "percent": "0%",
 "age": "от 18 лет",
 "sum_one": "от 1 000 до 30 000 руб",
 
 "url": "https://trkleads.ru/click/0621aeac6a42483792847114ca9bd464?aff_sub1=samber"
 },
-
-
-
-
-
-
-
 {
 "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/ekapustas.png",
 "name": "Деньги без процентов",
 "rating": 5,
+ "percent": "0%",
 "age": "от 18 лет",
 "sum_one": "от 1 000 до 30 000 руб",
-
 "url": "https://trkleads.ru/click/a74bc336d450fb119956f2bc301b957b?aff_sub1=samber"
 },
-
-
-
-
-
 {
 "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/logmin.png",
 "name": "Заём без процентов",
 "rating": 5,
+ "percent": "0%",
 "age": "от 18 лет",
 "sum_one": "от 1 000 до 30 000 руб",
-
 "url": "https://trkleads.ru/click/0621aeac6a42483792847114ca9bd464?aff_sub1=samber"
 },
-
-
-
-
-
-
-
-
 {
 "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/turbo.jpg",
 "name": "25 дней без процентов",
 "rating": 5,
+ "percent": "0%",
 "age": "от 18 лет",
 "sum_one": "от 1 000 до 50 000 руб",
-
 "url": "https://trkleads.ru/click/0a93339708f40081ea09352834d9b92a?aff_sub1=samber"
 }
 ]
