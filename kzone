@@ -1,6 +1,4 @@
 [
-
-
  {
     "name": "Первый займ под 0,01% — успей оформить!",
 "rating": 5,
@@ -30,15 +28,6 @@
  "url": "https://track-pdlp.com/h/1s2t6a79805367ffd"
 },
 {
-"name": "Просто и понятно",
-"rating": 5,
- "odobrenie": "Высокое",
- "age": "от 18 лет",
-"image_url": "https://raw.githubusercontent.com/vrsstudio/img/main/dengokz.png",   
-"sum_one": "от 1 000 до 400 000 тг",
- "url": "https://track-pdlp.com/h/1qrt68a4186fea2b1"
-},
-{
 "name": "Деньги до зарплаты — подай заявку!",
 "rating": 5,
  "odobrenie": "Высокое",
@@ -47,7 +36,15 @@
 "sum_one": "от 20 000 до 385 000 тг",
  "url": "https://track-pdlp.com/h/1s5r6adbb8536eadf"
 },
-
+{
+"name": "Просто и понятно",
+"rating": 5,
+ "odobrenie": "Высокое",
+ "age": "от 18 лет",
+"image_url": "https://raw.githubusercontent.com/vrsstudio/img/main/dengokz.png",   
+"sum_one": "от 1 000 до 400 000 тг",
+ "url": "https://track-pdlp.com/h/1qrt68a4186fea2b1"
+},
  {
     "name": "Меньше документов — проще получить займ!",
 "rating": 5,
