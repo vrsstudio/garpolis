@@ -1,0 +1,40 @@
+[
+  {
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/Banamex.png",
+    "name": "Dinero para cualquier propósito",
+    "rating": 5,
+    "age": "desde 18 años",
+    "sum_one": "de 150 € hasta 9.350 €",
+    "odobrenie": "Alta",
+    "url": "https://www.banamex.com/es/personas/creditos/credito-personal.html?lid=MX|index-H1-Information-IrCreditoPersonal-ES"
+  },
+ {
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/logo_hsbc.png",
+    "name": "Disponible las 24 horas",
+    "rating": 5,
+    "age": "desde 18 años",
+    "odobrenie": "Alta",
+    "sum_one": "de 100 € hasta 10.000 €",
+    "url": "https://www.hsbc.com.mx/creditos/personales/nomina/"
+  },
+{
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/logo_santander_rojo.png",
+    "name": "Solicita tu préstamo en minutos",
+    "rating": 5,
+    "age": "desde 18 años",
+    "odobrenie": "Media",
+    "sum_one": "de 500 € hasta 15.000 €",
+    "url": "https://www.santander.com.mx/personas/creditos-personales.html"
+  },
+{
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/bbvacols.png",
+    "name": "Soluciones para tus necesidades",
+    "rating": 5,
+    "age": "desde 18 años",
+    "odobrenie": "Media",
+    "sum_one": "de 100 € hasta 9.000 €",
+    "url": "https://www.bbva.mx/personas/productos/tarjetas-de-credito/tarjeta-de-credito-start.html"
+  }
+
+
+]
