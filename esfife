@@ -1,40 +1,93 @@
 [
   {
-    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/Banamex.png",
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/moneyaes.png",
     "name": "Dinero para cualquier propósito",
     "rating": 5,
     "age": "desde 18 años",
-    "sum_one": "de 150 € hasta 9.350 €",
+    "sum_one": "de 150 € hasta 8.350 €",
     "odobrenie": "Alta",
-    "url": "https://www.banamex.com/es/personas/creditos/credito-personal.html?lid=MX|index-H1-Information-IrCreditoPersonal-ES"
+    "url": "https://track-pdlp.com/h/1rg868ac35719c962?subid=es5"
   },
  {
-    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/logo_hsbc.png",
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/zaimoomx.png",
     "name": "Disponible las 24 horas",
     "rating": 5,
     "age": "desde 18 años",
     "odobrenie": "Alta",
-    "sum_one": "de 100 € hasta 10.000 €",
-    "url": "https://www.hsbc.com.mx/creditos/personales/nomina/"
+    "sum_one": "de 100 € hasta 8.000 €",
+    "url": "https://track-pdlp.com/h/1rk5697798f77547e?subid=es5"
   },
 {
-    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/logo_santander_rojo.png",
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/fiestamx.png",
     "name": "Solicita tu préstamo en minutos",
     "rating": 5,
     "age": "desde 18 años",
     "odobrenie": "Media",
-    "sum_one": "de 500 € hasta 15.000 €",
-    "url": "https://www.santander.com.mx/personas/creditos-personales.html"
+    "sum_one": "de 500 € hasta 5.000 €",
+    "url": "https://track-pdlp.com/h/1rge68ac5662e45bb?subid=es5"
   },
 {
-    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/bbvacols.png",
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/creditnice.png",
     "name": "Soluciones para tus necesidades",
     "rating": 5,
     "age": "desde 18 años",
     "odobrenie": "Media",
     "sum_one": "de 100 € hasta 9.000 €",
-    "url": "https://www.bbva.mx/personas/productos/tarjetas-de-credito/tarjeta-de-credito-start.html"
+    "url": "https://track-pdlp.com/h/1rth6a6b75c0ad26d?subid=es5"
+  },
+{
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/creditioes.png",
+    "name": "Crédito en minutos",
+    "rating": 5,
+    "age": "desde 18 años",
+    "odobrenie": "Media",
+    "sum_one": "de 100 € hasta 7.400 €",
+    "url": "https://track-pdlp.com/h/1rfa68ac429439220?subid=es5"
+  },
+{
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/finpayes.png",
+    "name": "Obtén el dinero que necesitas",
+    "rating": 5,
+    "age": "desde 18 años",
+    "odobrenie": "Media",
+    "sum_one": "de 100 € hasta 6.000 €",
+    "url": "https://track-pdlp.com/h/1rgi68ac355e9d208?subid=es5"
+  },
+{
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/binixmx.png",
+    "name": "Todo en un solo lugar",
+    "rating": 5,
+    "age": "desde 18 años",
+    "odobrenie": "Media",
+    "sum_one": "de 100 € hasta 5.000 €",
+    "url": "https://track-pdlp.com/h/1qgi69cfce2176cfc?subid=es5"
+  },
+{
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/instadineroes.png",
+    "name": "Solicita en pocos pasos",
+    "rating": 4,
+    "age": "desde 18 años",
+    "odobrenie": "Media",
+    "sum_one": "de 500 € hasta 8.500 €",
+    "url": "https://track-pdlp.com/h/1rg668adcab038007?subid=es5"
+  },
+ {
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/credigenuses.png",
+    "name": "Sin aval ni garantías",
+    "rating": 5,
+    "age": "desde 18 años",
+    "odobrenie": "Media",
+    "sum_one": "de 100 € hasta 5.600 €",
+    "url": "https://track-pdlp.com/h/1s2l6a6b70409bc8a?subid=es5"
+  },
+{
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/doprestamoes.png",
+    "name": "Préstamos para lo que necesites",
+    "rating": 4,
+    "age": "desde 18 años",
+    "odobrenie": "Media",
+    "sum_one": "de 50 € hasta 8.760 €",
+    "url": "https://track-pdlp.com/h/1re068ac34ebe0de0?subid=es5"
   }
-
 
 ]
